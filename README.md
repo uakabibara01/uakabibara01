@@ -6,7 +6,7 @@
 
 Skills: Python / C/ C++/ C#
 
-- ⚡ Fun fact: Я кабібара 
+- ⚡ Важлива Інформація: Я кабібара 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/uakabibara01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](uakabibara01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steem.svg' alt='steem' height='40'>](https://steamcommunity.com/profiles/76561199303549103/)  
