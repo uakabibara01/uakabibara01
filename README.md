@@ -2,7 +2,7 @@
 A developer is someone who does what their soul desires.  
 I've been programming since 2020, I study what I find interesting, I do what I'm not lazy about.
 
-![ua kabibara 01 banner](./profile-banner.svg)
+![ua kabibara 01 banner](./profile-banner2.svg)
 
 🌍  I'm based in Ukraine  
 🖥️  See my portfolio at [It's me. ヽ(*￣▽￣*)ノ](PORTFOLIO_URL)  
