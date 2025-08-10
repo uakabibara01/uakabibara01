@@ -1,9 +1,6 @@
 
 
 ### Всім Салам,я кабібарич  
-<div align="center">
-<img src="https://raw.githubusercontent.com/uakabibara01/uakabibara01/refs/heads/main/ua%20кабібара%2001.jpg" align="center" style="width: 100%" />
-</div>  
   
 
 - ⚡ Важлива Інформація: Я Не Гей  
