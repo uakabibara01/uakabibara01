@@ -5,7 +5,7 @@ I've been programming since 2020, I study what I find interesting, I do what I'm
 ![ua kabibara 01 banner](./profile-banner2.svg)
 
 🌍  I'm based in Ukraine  
-🖥️  See my portfolio at [It's me. ヽ(*￣▽￣*)ノ]([PORTFOLIO_URL](https://raw.githubusercontent.com/uakabibara01/uakabibara01/refs/heads/main/ua%20%D0%BA%D0%B0%D0%B1%D1%96%D0%B1%D0%B0%D1%80%D0%B0%2001.jpg))  
+🖥️  See my portfolio at [It's me. ヽ(*￣▽￣*)ノ]([[PORTFOLIO_URL](https://raw.githubusercontent.com/uakabibara01/uakabibara01/refs/heads/main/ua%20%D0%BA%D0%B0%D0%B1%D1%96%D0%B1%D0%B0%D1%80%D0%B0%2001.jpg)])  
 ✉️  You can contact me at [uakabibara01@gmail.com](mailto:uakabibara01@gmail.com)  
 🚀  I'm currently working on [SCP-SL-Reverse-Engineering](https://github.com/uakabibara01/SCP-SL-Reverse-Engineering)  
 🧠  I'm learning Node.js  
