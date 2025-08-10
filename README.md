@@ -11,6 +11,7 @@ I've been programming since 2020, I study what I find interesting, I do what I'm
 🧠  I'm learning Node.js  
 🤝  I'm open to collaborating on something SCPSL related or interesting.  
 ⚡  I'm not gay, but some people say so.
+⚙️  I recommend writing on Discord because I rarely check my email, and on Discord I'm always online.
 
 ### Skills
 
