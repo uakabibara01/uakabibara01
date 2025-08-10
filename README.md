@@ -12,7 +12,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Важан Інфа
 <table><tr><td valign="top" width="33%">
 
 
@@ -58,8 +58,7 @@
 <br/>  
 
 
-## Connect with me  
-
+## Інтернет
 
 ### Соціальні Мережні  
 <div align="center">
