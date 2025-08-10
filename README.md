@@ -1,4 +1,4 @@
-# Hi! My name is ua kabibara 01  
+# Hi! My name is ua кабібара  01  
 A developer is someone who does what their soul desires.  
 I've been programming since 2020, I study what I find interesting, I do what I'm not lazy about.
 
@@ -32,5 +32,4 @@ src="https://img.shields.io/github/followers/uakabibara01?logo=github&style=for-
 
 <div width="100%" align="center"><a href="https://github.com/uakabibara01/SCP-SL-Reverse-Engineering" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=uakabibara01&repo=SCP-SL-Reverse-Engineering&title_color=22c55e&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<img align="right" width="200" src="[https://link.to/your-animation.gif](https://tenor.com/uk/view/capybara-gif-25844994)" />
 
