@@ -2,7 +2,7 @@
 A developer is someone who does what their soul desires.  
 I've been programming since 2020, I study what I find interesting, I do what I'm not lazy about.
 
-🌍  I'm based in Україні  
+🌍  I'm based in Ukraine  
 🖥️  See my portfolio at [It's me. ヽ(*￣▽￣*)ノ](PORTFOLIO_URL)  
 ✉️  You can contact me at [uakabibara01@gmail.com](mailto:uakabibara01@gmail.com)  
 🚀  I'm currently working on [SCP-SL-Reverse-Engineering](https://github.com/uakabibara01/SCP-SL-Reverse-Engineering)  
