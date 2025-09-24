@@ -75,6 +75,6 @@
 
   <!-- опціональний маленький підпис справа -->
   <text x="95%" y="96%" text-anchor="end" font-family="Inter, Roboto, sans-serif" font-size="10" fill="#6b8f6b" opacity="0.85">
-    SCP-SL Reverse Engineering · Node.js · 2020+
+    SCP-SL · Node.js · 2020+
   </text>
 </svg>
